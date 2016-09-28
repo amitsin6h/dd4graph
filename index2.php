@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang='eng'><head><title>Graphs and Charts</title></head><body><p>Graphs and Chartst</p><p><a href="a.php">Graph A</a></p></body></html>
